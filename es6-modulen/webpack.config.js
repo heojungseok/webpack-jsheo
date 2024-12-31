@@ -24,5 +24,5 @@ module.exports = {
   stats: {
     colors: true
   },
-  devtool: 'source-map' // 빌드한 결과물과 빌드 되기 전 결과물을 연결 해주는 역할
+  devtool: 'source-map' // *빌드한 결과물과 빌드 되기 전 결과물을 연결 해주는 역할*
 };
